@@ -9,7 +9,7 @@ public class Main {
     String ige;
     String hely;
     int kor = 0;
-    ArrayList<String> targyak = new ArrayList<String>();
+    ArrayList<String> targyak = new ArrayList<>();
     Karakter karakter = new Karakter(5, targyak);
     boolean el = true;
 
